@@ -13,5 +13,6 @@ let name = "legend"
 let age = 22
 let isLoggedIn = false
 
+console.log("post completed")
 //number => 2 to power 53 
 //bigint
