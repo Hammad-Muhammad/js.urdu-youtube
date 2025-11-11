@@ -19,3 +19,4 @@ console.log("post completed")
 
 console.log("has been very busy")
 console.log("has been very busy")
+console.log("java script is powerful language")
