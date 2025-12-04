@@ -25,3 +25,4 @@ console.log(myArr[1]);
 console.log("A ", myArr);
 
 const myn1 = myArr.slice(1, 3)
+
